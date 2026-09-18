@@ -25,4 +25,3 @@ include my name, and does the test pass?"]
 [1–2 sentences: did anything in the setup trip you up (JDK, git, your editor, Gradle)? How did you
 resolve it? This is the muscle you'll use for the graded weeks.]
 
-Yes, the garbled em-dash in the output looked weird to me. I had to check and read what caused that specific problem. I also had to read about JUnit and how unit testing works in Java since I had never used it before.
